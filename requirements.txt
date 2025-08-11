@@ -1,0 +1,4 @@
+selenium==4.23.1
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+pushbullet.py==0.12.0
