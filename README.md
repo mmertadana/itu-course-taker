@@ -84,7 +84,6 @@ Universities update portals from time to time. If a selector breaks, edit `src/s
 ## Acknowledgements
 
 - Built with Selenium and webdriver-manager.
-- Original versions (“Course Taker”, “ders_kayit_gonderilecek”, “untitled.py”) were ad‑hoc scripts; this repo is a cleaned and documented version.
 
 ---
 
